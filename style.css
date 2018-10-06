@@ -1,0 +1,14 @@
+html, body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+}
+
+.moviebox {
+    display: block;
+    margin: 2vh 0;
+    padding: 0.5vh;
+}
